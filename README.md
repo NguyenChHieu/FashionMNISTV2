@@ -7,7 +7,7 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 + I learned and applied the concepts and guides from this video `https://www.youtube.com/watch?v=V_xro1bcAuA` and tried to recreate the model.
 
 ## Results:
-+ Compared to the normal model (no CNNs) - FashionMNISTV2 was 5% better at accuracy and had a 10-second trade-off while running on a T4-GPU in GoogleColab.
++ Compared to the normal model (no CNNs) - FashionMNISTV2 was 5% better at accuracy and sligtly better at %loss while running on a T4-GPU in GoogleColab.
 
 <img width="580" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/703dd437-30e9-483e-ad8f-ab121f68afbd">
 
