@@ -1,4 +1,4 @@
-# FashionMNISTV2
+<img width="487" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/60747e0d-60a6-49a2-a4fc-8638ad90fc27"># FashionMNISTV2
 This is the first convolutional neural network I have trained on the FashionMNIST dataset.
 
 ## Overview
@@ -12,4 +12,5 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 + <img width="580" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/703dd437-30e9-483e-ad8f-ab121f68afbd">
 + It has an amazing **89%** in terms of accuracy and 0.29% in terms of test loss.
 + The user can visualize its predictions and see if the predictions match the test samples or not with the `make_predictions` function.
++ <img width="487" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/b1d9ef1f-1eed-4ca8-8ea5-773d85a695d1">
 + Working on plotting confusion matrix for additional evaluation aspects.
