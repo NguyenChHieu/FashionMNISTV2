@@ -11,4 +11,5 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 + Compared to the normal model (no CNNs) - FashionMNISTV2 was 5% better at accuracy and had a 10-second trade-off while running on a T4-GPU in GoogleColab.
 + <img width="580" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/703dd437-30e9-483e-ad8f-ab121f68afbd">
 + It has an amazing **89%** in terms of accuracy and 0.29% in terms of test loss.
-+ User can visualize its predictions and see if the predictions match the test samples or not with `make_predictions` function.
++ The user can visualize its predictions and see if the predictions match the test samples or not with the `make_predictions` function.
++ Working on plotting confusion matrix for additional evaluation aspects.
