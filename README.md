@@ -1,4 +1,3 @@
-<img width="487" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/60747e0d-60a6-49a2-a4fc-8638ad90fc27"># FashionMNISTV2
 This is the first convolutional neural network I have trained on the FashionMNIST dataset.
 
 ## Overview
