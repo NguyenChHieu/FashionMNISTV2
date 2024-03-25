@@ -11,9 +11,9 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 
 <img width="580" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/703dd437-30e9-483e-ad8f-ab121f68afbd">
 
-+ It has an amazing **89%** in terms of accuracy and 0.29% in terms of test loss.
++ It has an amazing **88%** in terms of accuracy and 0.32% in terms of test loss.
 
-<img width="236" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/7fb91336-6a40-4886-a86e-157dc5d960ae">
+<img width="226" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/44ebdb80-e6da-46cb-88ab-5af02a8d4c9a">
 
 + The user can visualize its predictions and see if the predictions match the test samples or not with the `make_predictions` function.
 
