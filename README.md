@@ -19,4 +19,11 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 
 <img width="487" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/b1d9ef1f-1eed-4ca8-8ea5-773d85a695d1">
 
-+ Working on plotting confusion matrix for additional evaluation aspects.
++ Plotted confusion matrix for additional evaluation layers:
+  + Identifying the problematic labels such as "T-shirt/top" --> "Shirt".
+  + See the overall model's performance.
+ 
+<img width="447" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/794d69af-c938-4f64-bf7f-17d90695bc72">
+
++ Saved model to the appropriate file for reusability.
++ Load the saved model to check if the states of the model remained the same.
