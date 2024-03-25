@@ -27,3 +27,5 @@ This is the first convolutional neural network I have trained on the FashionMNIS
 
 + Saved model to the appropriate file for reusability.
 + Load the saved model to check if the states of the model remained the same.
+
+<img width="416" alt="image" src="https://github.com/NguyenChHieu/FashionMNISTV2/assets/140675996/5ea48ade-f858-4f4d-8a6a-fa5e799a62af">
